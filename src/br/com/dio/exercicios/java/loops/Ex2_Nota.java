@@ -9,4 +9,11 @@ package br.com.dio.exercicios.java.loops;
 
 public class Ex2_Nota {
 
+	public Ex2_Nota() {
+		System.out.println("                         WHILE                                         "+"\n");
+		System.out.println(" Ex 2 :  Nota"+"\n");
+	}
+	
+	
+
 }
