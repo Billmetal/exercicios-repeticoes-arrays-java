@@ -3,6 +3,7 @@ package br.com.dio.exercicios.java;
 import br.com.dio.exercicios.java.loops.Ex1_NomeIdade;
 import br.com.dio.exercicios.java.loops.Ex2_Nota;
 import br.com.dio.exercicios.java.loops.Ex3_MaiorEMedia;
+import br.com.dio.exercicios.java.loops.Ex4_ParEImpar;
 
 public class Main {
 
@@ -15,7 +16,8 @@ public class Main {
 		System.out.println("------------------ EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO ----------------------"+"\n");
 //		new Ex1_NomeIdade();
 //		new Ex2_Nota();
-		new Ex3_MaiorEMedia();
+//		new Ex3_MaiorEMedia();
+		new Ex4_ParEImpar();
 	}
 
 }
