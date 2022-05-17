@@ -5,6 +5,7 @@ import br.com.dio.exercicios.java.loops.Ex2_Nota;
 import br.com.dio.exercicios.java.loops.Ex3_MaiorEMedia;
 import br.com.dio.exercicios.java.loops.Ex4_ParEImpar;
 import br.com.dio.exercicios.java.loops.Ex5_Tabuada;
+import br.com.dio.exercicios.java.loops.Ex6_Fatorial;
 
 public class Main {
 
@@ -19,7 +20,8 @@ public class Main {
 //		new Ex2_Nota();
 //		new Ex3_MaiorEMedia();
 //		new Ex4_ParEImpar();
-		new Ex5_Tabuada();
+//		new Ex5_Tabuada();
+		new Ex6_Fatorial();
 	}
 
 }
