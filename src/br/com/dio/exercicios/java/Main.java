@@ -4,6 +4,7 @@ import br.com.dio.exercicios.java.loops.Ex1_NomeIdade;
 import br.com.dio.exercicios.java.loops.Ex2_Nota;
 import br.com.dio.exercicios.java.loops.Ex3_MaiorEMedia;
 import br.com.dio.exercicios.java.loops.Ex4_ParEImpar;
+import br.com.dio.exercicios.java.loops.Ex5_Tabuada;
 
 public class Main {
 
@@ -17,7 +18,8 @@ public class Main {
 //		new Ex1_NomeIdade();
 //		new Ex2_Nota();
 //		new Ex3_MaiorEMedia();
-		new Ex4_ParEImpar();
+//		new Ex4_ParEImpar();
+		new Ex5_Tabuada();
 	}
 
 }
