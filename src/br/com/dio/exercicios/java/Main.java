@@ -12,7 +12,8 @@ public class Main {
 	
 	private static void exerciciosEstruturaRepeticao() {
 		System.out.println("------------------ EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO ----------------------"+"\n");
-		new Ex1_NomeIdade();
+//		new Ex1_NomeIdade();
+		new Ex2_Nota();
 	}
 
 }
