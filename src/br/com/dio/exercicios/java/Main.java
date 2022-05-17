@@ -2,6 +2,7 @@ package br.com.dio.exercicios.java;
 
 import br.com.dio.exercicios.java.arrays.Ex1_OrdemInversa;
 import br.com.dio.exercicios.java.arrays.Ex2_Consoantes;
+import br.com.dio.exercicios.java.arrays.Ex3_NumerosAleatorios;
 import br.com.dio.exercicios.java.loops.Ex1_NomeIdade;
 import br.com.dio.exercicios.java.loops.Ex2_Nota;
 import br.com.dio.exercicios.java.loops.Ex3_MaiorEMedia;
@@ -29,7 +30,8 @@ public class Main {
 	private static void exerciciosArrays() {
 		System.out.println("------------------ EXERCÍCIOS ARRAYS ----------------------"+"\n");
 //		new Ex1_OrdemInversa();
-		new Ex2_Consoantes();
+//		new Ex2_Consoantes();
+		new Ex3_NumerosAleatorios();
 	}
 
 }
